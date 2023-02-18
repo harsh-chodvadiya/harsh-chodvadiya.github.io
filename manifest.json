@@ -1,6 +1,6 @@
 {
-    "name": "fire_web",
-    "short_name": "fire_web",
+    "name": "order_system",
+    "short_name": "order_system",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
